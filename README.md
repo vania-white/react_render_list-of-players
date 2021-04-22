@@ -1,1 +1,1 @@
-- [DEMO LINK](https://vania-white.github.io/react_dynamic-list-of-goods/)
+- [DEMO LINK](https://vania-white.github.io/react_render_list-of-players/index.html)
