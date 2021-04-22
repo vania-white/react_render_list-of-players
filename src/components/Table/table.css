@@ -1,0 +1,10 @@
+.table__column {
+  border: 2px solid grey;
+  padding: 5px;
+}
+
+.table__head {
+  border: 2px solid grey;
+  padding: 5px;
+  font-weight: 700;
+}
